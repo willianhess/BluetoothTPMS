@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "587672896248",
+    "firebase_url": "https://tmps-549e8.firebaseio.com",
+    "project_id": "tmps-549e8",
+    "storage_bucket": "tmps-549e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587672896248:android:9cf19e540e04daac",
+        "android_client_info": {
+          "package_name": "de.kai_morich.simple_bluetooth_terminal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587672896248-kqbr90o1gflggj92su6h3v64ujkl3lrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.kai_morich.simple_bluetooth_terminal",
+            "certificate_hash": "247f6a2f75fd653b7adea40da411b1db1383a363"
+          }
+        },
+        {
+          "client_id": "587672896248-3j0hqkqcpbuaetd43fqk39nvqm66m65e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdWF5kzNqXtuUjwU8kBG-Fng4bqrH-81M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587672896248-3j0hqkqcpbuaetd43fqk39nvqm66m65e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
